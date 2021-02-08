@@ -11,6 +11,8 @@
 
 
 # Code Reading-note 201
+
 | Name      | Link     
 | :------------- | :----------: |
-|  Read: 01        |  [class 01](./class-01) |
+|  class: 01        |  [class 01](./class-01) |
+| class:02         |[class02](./class02.md)
