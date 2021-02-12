@@ -19,3 +19,4 @@
 | class:03  |[java(switch) and css](./calss03.md)
 | class:04  | [javaa and html reason pair](class04.md)
 | class:05  | [Image , text , color](class05.md)
+| class:06  | [object and dom](class06.md)
