@@ -23,3 +23,4 @@
 | class09    |   [Form,list,table,event](class09)
 | class10    |   [Error,Handling,Debugging](class10)
 | class11    |   [Images,Practical information,Video and audio](class11)
+| class12    |   [Readings : Chart.js, Canvas](class12)
