@@ -24,3 +24,4 @@
 | class10    |   [Error,Handling,Debugging](class10)
 | class11    |   [Images,Practical information,Video and audio](class11)
 | class12    |   [Readings : Chart.js, Canvas](class12)
+| class13    |   [HTML 5 Storage](class13)
