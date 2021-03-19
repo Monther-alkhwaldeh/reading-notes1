@@ -1,3 +1,9 @@
+# Reading Notes
+
+## this website for reading Notes for classes
+
+## Code 102 - Intro to Software Development
+
 | Name      | Link
 | :------------- | :----------: |
 |  read02a |  [read02a](./read02a)  |
@@ -8,7 +14,7 @@
 |  read06a   | [functions](./read06a) |
 |  read06b   | [color in css](./read06b) |
 
-# Code Reading-note 201
+## Code Reading-note 201
 
 | Name      | Link
 | :------------- | :----------: |
@@ -26,3 +32,9 @@
 | class12    |   [Readings : Chart.js, Canvas](class12)
 | class13    |   [HTML 5 Storage](class13)
 | class14    |   [lab140a and lab140b](class14)
+
+## Code 301 - Intermediate Software Development
+
+| Name      | Link
+| :------------- | :----------: |
+| Read01         | [SMACSS and Responsive Web Design](301read1)
