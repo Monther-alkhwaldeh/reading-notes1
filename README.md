@@ -38,3 +38,4 @@
 | Name      | Link
 | :------------- | :----------: |
 | Read01         | [SMACSS and Responsive Web Design](301read1)
+| Read02         |  [jQuery, Events, and The DOM](301read2)
