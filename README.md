@@ -49,4 +49,5 @@
 | 301read010 |   [Call Stack ,Error messages](301read10)
 | 301read11 |   [EJS & API](301read11)
 | 301read12 |   [EJS partials](301read12)
+| 301read123 |   [ubdate and delete](301read13)
 
